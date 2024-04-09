@@ -9,7 +9,7 @@ Bienvenido al repositorio de la materia, acá vamos a estar subiendo todos los a
 
 ## Trabajos Prácticos
 
-- [TP 1](tps/TP_01_diagramas.md)
+- [TP 1](tps/tp1/TP_01_diagramas.md)
 
 ## Recursos
 
