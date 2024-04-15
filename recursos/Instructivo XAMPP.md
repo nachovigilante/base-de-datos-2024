@@ -13,5 +13,5 @@
 1. Abrir XAMPP.
 2. Iniciar los servicios de Apache y MySQL.
 
-![XAMPP 1](/img/xampp1.png)
-![XAMPP 2](/img/xampp2.png)
+![XAMPP 1](./img/xampp1.png)
+![XAMPP 2](./img/xampp2.png)
