@@ -33,7 +33,7 @@ CREATE TABLE `empleado` (
   `apellido` varchar(25) NOT NULL,
   `email` varchar(45) NOT NULL,
   `id_sector` int DEFAULT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_spanish_ci;
 
 --
 -- Dumping data for table `empleado`
@@ -62,7 +62,7 @@ CREATE TABLE `sala` (
   `superficie` int NOT NULL,
   `max_personas` int NOT NULL,
   `id_sector` int DEFAULT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_spanish_ci;
 
 --
 -- Dumping data for table `sala`
@@ -94,7 +94,7 @@ CREATE TABLE `sector` (
   `nombre_jefe` varchar(25) NOT NULL,
   `apellido_jefe` varchar(25) NOT NULL,
   `email_jefe` varchar(45) NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_spanish_ci;
 
 --
 -- Dumping data for table `sector`
@@ -115,7 +115,7 @@ INSERT INTO `sector` (`id`, `nombre`, `dni_jefe`, `nombre_jefe`, `apellido_jefe`
 CREATE TABLE `telefono` (
   `numero` int NOT NULL,
   `dni_duenio` int NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_spanish_ci;
 
 --
 -- Dumping data for table `telefono`
