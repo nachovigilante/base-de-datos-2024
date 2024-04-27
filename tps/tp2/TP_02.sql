@@ -1,11 +1,11 @@
 -- phpMyAdmin SQL Dump
--- version 5.2.1
+-- version 5.2.0
 -- https://www.phpmyadmin.net/
 --
--- Host: localhost
--- Generation Time: Apr 15, 2024 at 12:20 PM
--- Server version: 8.0.28
--- PHP Version: 8.3.3
+-- Host: 127.0.0.1
+-- Generation Time: Apr 27, 2024 at 01:59 AM
+-- Server version: 8.0.31
+-- PHP Version: 8.1.10
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
@@ -124,12 +124,16 @@ CREATE TABLE `telefono` (
 INSERT INTO `telefono` (`numero`, `dni_duenio`) VALUES
 (1125793384, 8578124),
 (1134558903, 10674839),
+(1162647891, 10674839),
 (1157438751, 11798427),
+(1126246435, 13239854),
 (83472267, 18354680),
+(1144328918, 18354680),
 (1154932865, 18354680),
 (58239483, 18657843),
 (1164985236, 23895945),
 (11798427, 25767823),
+(1126446982, 26360271),
 (61272166, 43182902),
 (64772222, 43182902),
 (73826632, 43182902);
@@ -197,12 +201,6 @@ ALTER TABLE `empleado`
 --
 ALTER TABLE `sala`
   ADD CONSTRAINT `sala_sector` FOREIGN KEY (`id_sector`) REFERENCES `sector` (`id`) ON DELETE RESTRICT ON UPDATE RESTRICT;
-
---
--- Constraints for table `telefono`
---
-ALTER TABLE `telefono`
-  ADD CONSTRAINT `telefono_empl` FOREIGN KEY (`dni_duenio`) REFERENCES `empleado` (`dni`) ON DELETE RESTRICT ON UPDATE RESTRICT;
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
