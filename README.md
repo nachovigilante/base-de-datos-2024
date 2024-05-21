@@ -11,7 +11,7 @@ Bienvenido al repositorio de la materia, acá vamos a estar subiendo todos los a
 
 - [TP 1](tps/tp1/TP_01_diagramas.md)
 - [TP 2](tps/tp2/TP_02_SQL.pdf)
-
+- [TP 3](tps/tp3/tp3.md)
 ## Recursos
 
 - [Cheatsheets](https://cheatsheets-nachovigilante.vercel.app/)
