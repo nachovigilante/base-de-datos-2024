@@ -1,3 +1,5 @@
+| DNI      | Nota         | Comentarios                                                                                                                                     |
+| -------- | ------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- |
 | 48458576 | 8,5          | Falto alumnos 4b, podrias haber utilizado foreach o map en vez de for, pto 6 podrian usar mostrarAlumno en vez de console.log                   |
 | 48592302 | No entregado | No entregado                                                                                                                                    |
 | 48591361 | 8,5          | Falto alumnos 4b, podrias haber utilizado foreach o map en vez de for, pto 6 podrian usar mostrarAlumno en vez de console.log                   |
