@@ -9,7 +9,7 @@
 | 48241168 | 10           | Todo perfecto                                                                                                                                   |
 | 48592035 | 8,5          | Falto alumnos 4b, podrias haber utilizado foreach o map en vez de for, pto 6 podrian usar mostrarAlumno en vez de console.log                   |
 | 48178309 | 8            | Todo bien se olvidaron el punto 5                                                                                                               |
-| 48366467 | 4            | Incompleto, el pto 5 se hace con for                                                                                                            |
+| 48366467 | 9,5            | 2da entrega OK                                                                                                            |
 | 48521900 | 9            | Falto const en los for, se podria haber usado filter en pto 6                                                                                   |
 | 47962250 | 10           | Todo perfecto                                                                                                                                   |
 | 48111548 | 8            | Falto alumnos 3b, punto 5 se llama a mostrarAlumno sin console.log (por eso da undefined), punto 6 comparan con = en vez de ==                  |
@@ -17,7 +17,7 @@
 | 48716111 | 8            | Todo bien se olvidaron el punto 5                                                                                                               |
 | 50926612 | 7            | Punto 4 no modifica el array, punto 6 deberian ser if separados, si hay un alumno de 4b aparece 1 sola vez, en 4to pero no en b. Idem aprobados |
 | 48792120 | 10           | Todo perfecto                                                                                                                                   |
-| 48045307 | 4            | Incompleto, el pto 5 se hace con for                                                                                                            |
+| 48045307 | 9,5          | 2da entrega OK                                                                                                          |
 | 48242494 | 10           | Todo perfecto                                                                                                                                   |
 | 48095896 | 8            | Falto mostrar todos los alumnos                                                                                                                 |
 | 48178329 | 7            | Punto 4 no modifica el array, punto 6 deberian ser if separados, si hay un alumno de 4b aparece 1 sola vez, en 4to pero no en b. Idem aprobados |
