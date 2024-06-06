@@ -22,7 +22,7 @@
 | 48095896 | 8            | Falto mostrar todos los alumnos                                                                                                                 |
 | 48178329 | 7            | Punto 4 no modifica el array, punto 6 deberian ser if separados, si hay un alumno de 4b aparece 1 sola vez, en 4to pero no en b. Idem aprobados |
 | 48242726 | 10           | Todo perfecto                                                                                                                                   |
-| 48792652 | 4            | Incompleto, el pto 5 se hace con for                                                                                                            |
+| 48792652 | 4            | 2da entrega OK                                                                                                            |
 | 48519649 | 8            | Falto mostrar todos los alumnos                                                                                                                 |
 | 48592475 | 8,5          | Estaba desprolijo el codigo, algunas variables declaradas 2 veces, pto 6 podrian usar mostrarAlumno en vez de console.log                       |
 | 48115689 | 8            | Falto mostrar todos los alumnos                                                                                                                 |
