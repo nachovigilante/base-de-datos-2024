@@ -1,0 +1,13 @@
+# Nota TP3 - GOLDMAN-PESSAJ - 4°C
+
+| Ejercicio | Nota   | Observaciones                         |
+| --------- | ------ | ------------------------------------- |
+| 1         | 2/2    |                                       |
+| 2         | 1/1    |                                       |
+| 3         | 0.5/1  | El DNI no está en el formato correcto |
+| 4         | 2/2    |                                       |
+| 5         | 2/2    |                                       |
+| 6         | 2/2    |                                       |
+| Final     | 9.5/10 |                                       |
+
+[trabajo](https://drive.google.com/file/d/1G_JQ23e1RR6NFP9RJxu6UXzAaUP2vGnM/view)
