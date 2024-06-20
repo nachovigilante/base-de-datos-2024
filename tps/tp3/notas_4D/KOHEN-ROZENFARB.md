@@ -8,6 +8,6 @@
 | 4         | -       |               |
 | 5         | -       |               |
 | 6         | -       |               |
-| Final     | COPIADO |               |
+| Final     | COPIADO (hablar con el profesor) |               |
 
 [trabajo](https://drive.google.com/file/d/1HRamZ6e03To8g_DXghbB_BQZIVoH5jL_/view)
