@@ -1,6 +1,6 @@
 import { conn } from "../db.js";
 
-const getAlbumes = (_, res) => {
+const getAlbumes = async (_, res) => {
     // Completar con la consulta que devuelve todos los albumes
     // Recordar que los parámetros de una consulta GET se encuentran en req.params
     // Deberían devolver los datos de la siguiente forma:
@@ -21,7 +21,7 @@ const getAlbumes = (_, res) => {
     */
 };
 
-const getAlbum = (req, res) => {
+const getAlbum = async (req, res) => {
     // Completar con la consulta que devuelve un album por id
     // Recordar que los parámetros de una consulta GET se encuentran en req.params
     // Deberían devolver los datos de la siguiente forma:
@@ -34,7 +34,7 @@ const getAlbum = (req, res) => {
     */
 };
 
-const createAlbum = (req, res) => {
+const createAlbum = async (req, res) => {
     // Completar con la consulta que crea un album
     // Recordar que los parámetros de una consulta POST se encuentran en req.body
     // Deberían recbir los datos de la siguiente forma:
@@ -46,7 +46,7 @@ const createAlbum = (req, res) => {
     */
 };
 
-const updateAlbum = (req, res) => {
+const updateAlbum = async (req, res) => {
     // Completar con la consulta que actualiza un album
     // Recordar que en este caso tienen parámetros en req.params (el id) y en req.body (los demás datos)
     // Deberían recbir los datos de la siguiente forma:
@@ -58,12 +58,12 @@ const updateAlbum = (req, res) => {
     */
 };
 
-const deleteAlbum = (req, res) => {
+const deleteAlbum = async (req, res) => {
     // Completar con la consulta que elimina un album
     // Recordar que los parámetros de una consulta DELETE se encuentran en req.params
 };
 
-const getCancionesByAlbum = (req, res) => {
+const getCancionesByAlbum = async (req, res) => {
     // Completar con la consulta que devuelve las canciones de un album
     // Recordar que los parámetros de una consulta GET se encuentran en req.params
     // Deberían devolver los datos de la misma forma que getCanciones

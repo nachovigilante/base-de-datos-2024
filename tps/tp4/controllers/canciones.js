@@ -1,6 +1,6 @@
 import { conn } from "../db.js";
 
-const getCanciones = (_, res) => {
+const getCanciones = async (_, res) => {
     // Completar con la consulta que devuelve todas las canciones
     // Recordar que los parámetros de una consulta GET se encuentran en req.params
     // Deberían devolver los datos de la siguiente forma:
@@ -27,7 +27,7 @@ const getCanciones = (_, res) => {
     */
 };
 
-const getCancion = (req, res) => {
+const getCancion = async (req, res) => {
     // Completar con la consulta que devuelve una canción
     // Recordar que los parámetros de una consulta GET se encuentran en req.params
     // Deberían devolver los datos de la siguiente forma:
@@ -43,7 +43,7 @@ const getCancion = (req, res) => {
     */
 };
 
-const createCancion = (req, res) => {
+const createCancion = async (req, res) => {
     // Completar con la consulta que crea una canción
     // Recordar que los parámetros de una consulta POST se encuentran en req.body
     // Deberían recibir los datos de la siguiente forma:
@@ -57,7 +57,7 @@ const createCancion = (req, res) => {
     // (Reproducciones se inicializa en 0)
 };
 
-const updateCancion = (req, res) => {
+const updateCancion = async (req, res) => {
     // Completar con la consulta que actualiza una canción
     // Recordar que los parámetros de una consulta PUT se encuentran en req.body
     // Deberían recibir los datos de la siguiente forma:
@@ -71,12 +71,12 @@ const updateCancion = (req, res) => {
     // (Reproducciones no se puede modificar con esta consulta)
 };
 
-const deleteCancion = (req, res) => {
+const deleteCancion = async (req, res) => {
     // Completar con la consulta que elimina una canción
     // Recordar que los parámetros de una consulta DELETE se encuentran en req.params
 };
 
-const reproducirCancion = (req, res) => {
+const reproducirCancion = async (req, res) => {
     // Completar con la consulta que aumenta las reproducciones de una canción
     // En este caso es una consulta PUT, pero no recibe ningún parámetro en el body, solo en los params
 };
