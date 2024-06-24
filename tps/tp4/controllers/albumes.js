@@ -1,4 +1,4 @@
-import { conn } from "../db";
+import { conn } from "../db.js";
 
 const getAlbumes = (_, res) => {
     // Completar con la consulta que devuelve todos los albumes
@@ -69,7 +69,7 @@ const getCancionesByAlbum = (req, res) => {
     // Deberían devolver los datos de la misma forma que getCanciones
 };
 
-export {
+const albumes = {
     getAlbumes,
     getAlbum,
     createAlbum,
@@ -77,3 +77,5 @@ export {
     deleteAlbum,
     getCancionesByAlbum,
 };
+
+export default albumes;

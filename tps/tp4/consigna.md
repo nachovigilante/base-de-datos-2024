@@ -142,6 +142,7 @@ La API que debe tener las siguientes rutas:
 - Crear la base de datos `spoticfy` en `phpMyAdmin` e importar el archivo `spoticfy.sql` que se encuentra en la raíz del proyecto.
 - Instalar las dependencias del proyecto con `npm install`.
 - Completar el archivo `db.js` con la lógica necesaria para conectarse a la base de datos.
+- Probar que la API funciona, ejecutando el proyecto con `npm start` o `npm run dev` y probando con una request de tipo `GET` a la ruta `/`.
 
 #### Ejercicio 1
 

@@ -2,9 +2,9 @@ import express from "express";
 const app = express();
 const port = 3000;
 
-import artistas from "./controllers/artistas";
-import albumes from "./controllers/albumes";
-import canciones from "./controllers/canciones";
+import artistas from "./controllers/artistas.js";
+import albumes from "./controllers/albumes.js";
+import canciones from "./controllers/canciones.js";
 
 app.use(express.json());
 

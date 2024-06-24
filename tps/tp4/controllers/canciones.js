@@ -1,4 +1,4 @@
-import { conn } from "../db";
+import { conn } from "../db.js";
 
 const getCanciones = (_, res) => {
     // Completar con la consulta que devuelve todas las canciones
@@ -81,7 +81,7 @@ const reproducirCancion = (req, res) => {
     // En este caso es una consulta PUT, pero no recibe ningún parámetro en el body, solo en los params
 };
 
-export {
+const canciones = {
     getCanciones,
     getCancion,
     createCancion,
@@ -89,3 +89,5 @@ export {
     deleteCancion,
     reproducirCancion,
 };
+
+export default canciones;

@@ -1,4 +1,5 @@
-import { conn } from "../db";
+import art from "cli-color/art.js";
+import { conn } from "../db.js";
 
 const getArtistas = (_, res) => {
     // Completar con la consulta que devuelve todos los artistas
@@ -71,7 +72,7 @@ const getCancionesByArtista = (req, res) => {
     // Deberían devolver los datos de la misma forma que getCanciones
 };
 
-export {
+const artistas = {
     getArtistas,
     getArtista,
     createArtista,
@@ -80,3 +81,5 @@ export {
     getAlbumesByArtista,
     getCancionesByArtista,
 };
+
+export default artistas;
