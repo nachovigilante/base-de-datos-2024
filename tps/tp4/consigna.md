@@ -12,7 +12,30 @@ El objetivo de este trabajo práctico es que puedas aplicar los conocimientos ad
 
 Como vimos en la materia, una API es una interfaz que permite la comunicación entre distintos sistemas. Por esta razón, es sumamente importante que la API resultante de la resolución de este trabajo práctico cumpla los requerimientos que plantea el mismo.
 
-Prestar especial atención a que, por ejemplo, si se pide que una ruta devuelva un recurso específico, la misma debe devolver el recurso correcto, no una lista que contenga al recurso.
+Prestar especial atención a que:
+
+- Si se pide que una ruta devuelva un recurso específico, la misma debe devolver el recurso correcto, no una lista que contenga al recurso.
+- Si se pide que se devuelva, por ejemplo:
+
+    ```json
+    {
+        "id": id,
+        "nombre": "nombre",
+        "nombre_artista": "nombre_artista"
+    }
+    ```
+
+    y se devuelve:
+
+    ```json
+    {
+        "id": id,
+        "nombre": "nombre",
+        "artista": id_artista
+    }
+    ```
+
+    la respuesta no es correcta, ya que no cumple con lo que se pide.
 
 ### Grupos
 
