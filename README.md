@@ -12,6 +12,7 @@ Bienvenido al repositorio de la materia, acá vamos a estar subiendo todos los a
 - [TP 1](tps/tp1/TP_01_diagramas.md)
 - [TP 2](tps/tp2/TP_02_SQL.pdf)
 - [TP 3](tps/tp3/tp3.md)
+- [TP 4](tps/tp4/consigna.md)
 ## Recursos
 
 - [Cheatsheets](https://cheatsheets-nv.vercel.app/)
