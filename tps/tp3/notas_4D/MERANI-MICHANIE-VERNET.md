@@ -1,4 +1,4 @@
-# Nota TP3 - MERANI-MICHANIE - 4°D
+# Nota TP3 - MERANI-MICHANIE-VERNET - 4°D
 
 | Ejercicio | Nota   | Observaciones                                                       |
 | --------- | ------ | ------------------------------------------------------------------- |
