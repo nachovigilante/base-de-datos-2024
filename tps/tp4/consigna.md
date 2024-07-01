@@ -177,4 +177,4 @@ Completar todos los archivos que sean necesarios para que la API funcione correc
 
 ## Entrega
 
-La entrega del trabajo práctico se realizará a través de _un formulario que aparecerá en este lugar en un futuro muy cercano_ en el que entregarán todo el proyecto (**SIN LA CARPETA node_modules**) en un `.zip`. La fecha límite de entrega es el _(fecha a determinar en un futuro muy cercano)_.
+La entrega del trabajo práctico se realizará a través de [este formulario](https://forms.gle/Ev1YMe77KK6FD3wJ9) en el que entregarán todo el proyecto (**SIN LA CARPETA node_modules**) en un `.zip`. La fecha límite de entrega es el _(fecha a determinar en un futuro muy cercano)_.
