@@ -1,4 +1,4 @@
-DNI      | Nombre y apellido        | Nota  | Comentarios                                                                                                     |
+| Nº | Email                   |DNI       | Nombre y apellido        | Nota  | Comentarios                                                                                                     |
 | -- | ----------------------- | -------- | ------------------------ | ----- | --------------------------------------------------------------------------------------------------------------- |
 | 1  | 48458576@est.ort.edu.ar | 48458576 | Adler Martín             | 10,00 | Todo bien!                                                                                                      |
 | 2  | 48592302@est.ort.edu.ar | 48592302 | Ayesa Bey Matías         | 9,00  | Hay una relacion de mas en el DER y falta una FK                                                                |
