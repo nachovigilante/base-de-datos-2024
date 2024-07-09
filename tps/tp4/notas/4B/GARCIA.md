@@ -38,6 +38,6 @@
 
 ## Nota
 
-La nota final del TP4 es **6**.
+La nota final del TP4 es **7**.
 
 Comentario: los errores encontrados en las rutas GET consisten en su mayoría en problemas repetidos en las queries (usos de campos inexistentes y/o _typos_). Además en las rutas para devolver recursos individuales devuelve una lista.

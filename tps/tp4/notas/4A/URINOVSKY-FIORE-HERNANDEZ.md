@@ -2,8 +2,8 @@
 
 ## Diagramas
 
-- **DER**: ?
-- **DLR**: ?
+- **DER**: BIEN
+- **DLR**: BIEN
 
 ## API
 
@@ -38,4 +38,4 @@
 
 ## Nota
 
-La nota final del TP4 es **10** (supeditado a entrega de diagramas)
+La nota final del TP4 es **10**
