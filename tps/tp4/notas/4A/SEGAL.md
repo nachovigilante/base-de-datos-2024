@@ -2,8 +2,8 @@
 
 ## Diagramas
 
-- **DER**: BIEN
-- **DLR**: BIEN
+- **DER**: No corresponde a la base de datos
+- **DLR**: No corresponde a la base de datos
 
 ## API
 
@@ -12,9 +12,9 @@
 | GET /artistas                 | OK        |
 | GET /albumes                  | OK        |
 | GET /canciones                | OK        |
-| GET /artistas/:id             | OK        |
-| GET /albumes/:id              | OK        |
-| GET /canciones/:id            | OK        |
+| GET /artistas/:id             | ERROR     |
+| GET /albumes/:id              | ERROR     |
+| GET /canciones/:id            | ERROR     |
 | GET /artistas/:id/albumes     | OK        |
 | GET /albumes/:id/canciones    | OK        |
 | GET artistas/:id/canciones/   | OK        |
@@ -31,11 +31,11 @@
 
 | Tipo de request  | Acertados |
 | ---------------- | --------- |
-| GET              | 6/6       |
+| GET              | 3/6       |
 | GET (especiales) | 3/3       |
 | POST/PUT         | 7/7       |
 | DELETE           | 3/3       |
 
 ## Nota
 
-La nota final del TP4 es **10**
+La nota final del TP4 es **9** (depende de una defensa individual)

@@ -38,4 +38,4 @@
 
 ## Nota
 
-La nota final del TP4 es **8**
+La nota final del TP4 es **8** (depende de defensa individual)

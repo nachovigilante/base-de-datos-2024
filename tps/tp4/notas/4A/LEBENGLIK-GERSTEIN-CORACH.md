@@ -25,17 +25,17 @@
 | PUT /albumes                  | OK        |
 | PUT /canciones                | OK        |
 | PUT /canciones/:id/reproducir | ERROR     |
-| DELETE /artistas              | ERROR     |
-| DELETE /albumes               | ERROR     |
-| DELETE /canciones             | ERROR     |
+| DELETE /artistas              | OK        |
+| DELETE /albumes               | OK        |
+| DELETE /canciones             | OK        |
 
 | Tipo de request  | Acertados |
 | ---------------- | --------- |
 | GET              | 1/6       |
 | GET (especiales) | 0/3       |
 | POST/PUT         | 6/7       |
-| DELETE           | 0/3       |
+| DELETE           | 3/3       |
 
 ## Nota
 
-La nota final del TP4 es **5**
+La nota final del TP4 es **6** (pendiente de defensa individual)
