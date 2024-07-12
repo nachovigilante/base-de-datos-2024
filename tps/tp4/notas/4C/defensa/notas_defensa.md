@@ -17,7 +17,7 @@
 | Hernandez Palumbo Lautaro Hernandez | APROBADO    |
 | Isaak Nicolas                       | APROBADO    |
 | Jaime Facundo                       | APROBADO    |
-| Levinson Andres                     | DESAPROBADO |
+| Levinson Andres                     | APROBADO    |
 | Martín Ezequiel                     | DESAPROBADO |
 | Meinrath Victoria                   | DESAPROBADO |
 | Palomino Olivia                     | APROBADO    |
